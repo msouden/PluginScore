@@ -1,20 +1,5 @@
-pluginscore PRO
-http://my.studiopress.com/themes/pluginscore/
-
-INSTALL
-1. Upload the pluginscore Pro theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
-2. Go to your WordPress dashboard and select Appearance.
-3. Activate the pluginscore Pro theme.
-4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
-
-WIDGET AREAS
-Front Page 1 - This is the 1st section on the front page.
-Front Page 2 - This is the 2nd section on the front page.
-Front Page 3 - This is the 3rd section on the front page.
-After Entry - This is the after entry widget area.
-Footer 1 - This is the footer 1 widget area.
-Footer 2 - This is the footer 2 widget area.
-Footer 3 - This is the footer 3 widget area.
+pluginscore
+http://pluginscore.com
 
 CUSTOM BACKGROUND
 This theme supports custom background, which is a native WordPress function.
